@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  nodes:NodeGraph[] = [{x: 3, y:2}];
+}
+
+interface NodeGraph {
+  x: number;
+  y: number;
 }

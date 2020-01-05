@@ -1,5 +1,9 @@
 # NgGraphSvg
 
+Its a module to build a hierarchy graph tree node, with
+nde sons been arranged together, in a different position 
+of its father node.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
